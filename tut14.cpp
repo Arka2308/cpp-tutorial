@@ -16,7 +16,7 @@ typedef struct marks {
     float math;
     float science;
     float computer;
-} score;  // Adding 'typedef' keyword at first , and adding 'score' at the end refers that we can even create an instance 
+} score;  // Adding 'typedef' keyword at first , and adding 'score' at the end refers that we can even create an instance of this struct using this keyword 'score'
 
 
 // Union 
